@@ -1,0 +1,44 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="717,0 195,552 636,552 307,1024 829,472 388,472"
+             fill="url(#myGradient)"
+             transform="scale(0.7) translate(220,40)"/>
+    <text font-style="italic" font-weight="bold" font-family="'Courier New'"
+          font-size="0" y="937" x="32">
+        <tspan fill="#FF1B2D" font-size="195">S</tspan>
+        <tspan fill="#FF5D1F" font-size="195">C</tspan>
+        <tspan fill="#FFDB00" font-size="195">X</tspan>
+        <tspan fill="#A1A1A1" font-size="195">-</tspan>
+        <tspan fill="#2BD400" font-size="195">A</tspan>
+        <tspan fill="#1B8CFF" font-size="195">N</tspan>
+        <tspan fill="#0066FF" font-size="195">S</tspan>
+        <tspan fill="#C11BFF" font-size="195">I</tspan>
+    </text>
+    <text font-style="italic" font-weight="bold" font-family="'Courier New'"
+          font-size="195" y="930" x="32" fill="#ffffff" opacity="0.25">
+        SCX-ANSI
+    </text>
+    <defs>
+        <linearGradient id="myGradient" gradientTransform="rotate(0)">
+            <stop offset="0%" stop-color="#FF1B2D"/>
+            <stop offset="14%" stop-color="#FF1B2D"/>
+
+            <stop offset="14%" stop-color="#FF5D1F"/>
+            <stop offset="28%" stop-color="#FF5D1F"/>
+
+            <stop offset="28%" stop-color="#FFDB00"/>
+            <stop offset="42%" stop-color="#FFDB00"/>
+
+            <stop offset="42%" stop-color="#2BD400"/>
+            <stop offset="57%" stop-color="#2BD400"/>
+
+            <stop offset="57%" stop-color="#1B8CFF"/>
+            <stop offset="72%" stop-color="#1B8CFF"/>
+
+            <stop offset="72%" stop-color="#0066FF"/>
+            <stop offset="86%" stop-color="#0066FF"/>
+
+            <stop offset="86%" stop-color="#C11BFF"/>
+            <stop offset="100%" stop-color="#C11BFF"/>
+        </linearGradient>
+    </defs>
+</svg>
