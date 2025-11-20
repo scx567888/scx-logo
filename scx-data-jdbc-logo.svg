@@ -3,16 +3,20 @@
              fill="url(#myGradient)"
              transform="scale(0.7) translate(220,40)"/>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
-          font-size="0" y="920" x="26" fill="url(#myGradient)">
-        <tspan fill="url(#myGradient)" font-size="132">SCX-JDBC-</tspan>
-        <tspan fill="#C11BFF" font-size="132">SPY</tspan>
+          font-size="0" y="920" x="24" fill="url(#myGradient)">
+        <tspan fill="url(#myGradient)" font-size="122">SCX-DATA-</tspan>
+        <tspan fill="url(#myGradient1)" font-size="122">JDBC</tspan>
     </text>
     <text font-style="italic" font-weight="bold" font-family="'Courier New'"
-          font-size="132" y="915" x="26" fill="#ffffff" opacity="0.25">
-        SCX-JDBC-SPY
+          font-size="122" y="915" x="24" fill="#ffffff" opacity="0.25">
+        SCX-DATA-JDBC
     </text>
     <defs>
         <linearGradient id="myGradient" gradientTransform="rotate(90)">
+            <stop offset="0%" stop-color="#F0FF00"/>
+            <stop offset="100%" stop-color="#49C628"/>
+        </linearGradient>
+        <linearGradient id="myGradient1" gradientTransform="rotate(90)">
             <stop offset="0%" stop-color="#7AB0FF"/>
             <stop offset="50%" stop-color="#4F4DFF"/>
             <stop offset="100%" stop-color="#2A008A"/>
